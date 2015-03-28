@@ -4,7 +4,7 @@ Circular Arrays implementation in Julia.
 
 ## What is this for?
 
-Useful for implementing queues of future events with some max delay. See [this article](http://en.wikipedia.org/wiki/Circular_buffer)
+Useful for implementing queues of future events with some max delay. Use regular slicing notation to set future data, except data wraps around if it overflows. See [this article](http://en.wikipedia.org/wiki/Circular_buffer). 
 
 ## Usage:
 
