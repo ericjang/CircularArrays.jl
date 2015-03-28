@@ -1,5 +1,7 @@
 # CircularArrays.jl
 
+[![Build Status](https://travis-ci.org/ericjang/CircularArrays.jl.svg?branch=master)](https://travis-ci.org/ericjang/CircularArrays.jl)
+
 Circular Arrays implementation in Julia.
 
 ## What is this for?
